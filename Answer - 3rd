@@ -1,1 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<Title> Question 1 </title>
+<style> 
+body { background-image: url("pic.jpg");background-repeat:no-repeat ; background-position: center  ; text-align:left ; background-attachment:fixed ; color : green ;}
+a:link {color: green   ; /* unvisited link */}
+a:visited {color:blue ; /* visited link */}
+a:hover {color: red; /*link over which mouse is hovering */ }
+a:active {color: orange ; /* link which is selected */ } 
+</style>
+</head>
 
+<body>
+
+
+<hr>
+<a href ="#section2" id="section1" > <h1> Go to bottom </h1> </a>
+
+<h2 style ="text-align: center ;  font-size :75px ; color: white;" > This is External Linking </h2> 
+<h2 style ="text-align: center ;  font-size : 65px ;"> <a href= "https://www.google.com/earth/"> Click to visit Google Earth </a> 
+<hr>
+<h1 style ="text-align: center ;  font-size :75px ; color: light blue;" > Some Random Content  </h1>
+<p style="text-align: center ; font-size : 60 ; color: blue; " > Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29% of Earth's surface is land consisting of continents and islands. The remaining 71% is covered with water, mostly by oceans but also lakes, rivers and other fresh water, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle that drives plate tectonics.
+
+According to radiometric dating estimation and other evidence, Earth formed over 4.5 billion years ago. Within the first billion years of Earth's history, life appeared in the oceans and began to affect Earth's atmosphere and surface, leading to the proliferation of anaerobic and, later, aerobic organisms. Some geological evidence indicates that life may have arisen as early as 4.1 billion years ago. Since then, the combination of Earth's distance from the Sun, physical properties and geological history have allowed life to evolve and thrive. In the history of life on Earth, biodiversity has gone through long periods of expansion, occasionally punctuated by mass extinctions. Over 99% of all species that ever lived on Earth are extinct. Almost 8 billion humans live on Earth and depend on its biosphere and natural resources for their survival. Humans increasingly impact Earth's hydrology, atmospheric processes and other life.
+
+Earth's atmosphere consists mostly of nitrogen and oxygen. Tropical regions receive more energy from the Sun than polar regions, which is redistributed by atmospheric and ocean circulation. Greenhouse gases also play an important role in regulating the surface temperature. A region's climate is not only determined by latitude, but also by its proximity to moderating oceans and height among other factors. Extreme weather, such as tropical cyclones and heat waves, occurs in most areas and has a large impact on life.
+ From the Latin Terra comes Terran /ˈtɛrən/,[31] Terrestrial /təˈrɛstriəl/,[32] and (via French) Terrene /təˈriːn/,[33] and from the Latin Tellus comes Tellurian /tɛˈlʊəriən/[34] and Telluric.[35]
+</p> 
+<hr>
+<h4 style ="text-align: left ;  font-size : 50px ; color: Red ; " > Unordered List  </h4> 
+ <ul>
+<li style ="text-align: left ;  font-size : 50px ;"> element 1  </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 2  </li> 
+<li style ="text-align: left ;  font-size : 50px ;"> element 3  </li>  
+<li style ="text-align: left ;  font-size : 50px ;"> element 4  </li>   
+<br>
+<hr>
+<h4 style ="text-align: left ;  font-size : 50px ; color: Red   ; " > Ordered list  </h4>
+<ol>
+<li style ="text-align: left ;  font-size : 50px ;"> element 1 </li>
+<li style ="text-align: left ;  font-size : 50px ;" > element 2 </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 3</li> 
+<li style ="text-align: left ;  font-size : 50px ;"> element 4 </li>
+<li style ="text-align: left ;  font-size : 50px ;"> element 5 </li> 
+ 
+<h1 style="text-align: left ;  font-size : 50px ; color: Red  ; "> Inserting image </h1> 
+<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZWFydGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"  width="500" height="500">
+<a href="#section1" id="section2" > <h1> Go to top </h1> </a> 
+
+</body>
+</html>
