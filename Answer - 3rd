@@ -3,9 +3,9 @@
 <head>
 <Title> Question 1 </title>
 <style> 
-body { background-image: url("pic.jpg");background-repeat:no-repeat ; background-position: center  ; text-align:left ; background-attachment:fixed ; color : green ;}
+body { background-image: url("https://media.istockphoto.com/photos/global-communication-network-picture-id1317845608?b=1&k=20&m=1317845608&s=170667a&w=0&h=YhLfY3fbUiKVV1-9m4hlSCqF2eMaYrUdl_6mtaRoXQ4=");background-repeat:no-repeat ; background-position: center  ; text-align:left ; background-attachment:fixed ; color : green ;}
 a:link {color: green   ; /* unvisited link */}
-a:visited {color:blue ; /* visited link */}
+a:visited {color:red ; /* visited link */}
 a:hover {color: red; /*link over which mouse is hovering */ }
 a:active {color: orange ; /* link which is selected */ } 
 </style>
@@ -21,7 +21,7 @@ a:active {color: orange ; /* link which is selected */ }
 <h2 style ="text-align: center ;  font-size : 65px ;"> <a href= "https://www.google.com/earth/"> Click to visit Google Earth </a> 
 <hr>
 <h1 style ="text-align: center ;  font-size :75px ; color: light blue;" > Some Random Content  </h1>
-<p style="text-align: center ; font-size : 60 ; color: blue; " > Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29% of Earth's surface is land consisting of continents and islands. The remaining 71% is covered with water, mostly by oceans but also lakes, rivers and other fresh water, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle that drives plate tectonics.
+<p style="text-align: center ; font-size : 60 ; color: yellow; " > Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29% of Earth's surface is land consisting of continents and islands. The remaining 71% is covered with water, mostly by oceans but also lakes, rivers and other fresh water, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle that drives plate tectonics.
 
 According to radiometric dating estimation and other evidence, Earth formed over 4.5 billion years ago. Within the first billion years of Earth's history, life appeared in the oceans and began to affect Earth's atmosphere and surface, leading to the proliferation of anaerobic and, later, aerobic organisms. Some geological evidence indicates that life may have arisen as early as 4.1 billion years ago. Since then, the combination of Earth's distance from the Sun, physical properties and geological history have allowed life to evolve and thrive. In the history of life on Earth, biodiversity has gone through long periods of expansion, occasionally punctuated by mass extinctions. Over 99% of all species that ever lived on Earth are extinct. Almost 8 billion humans live on Earth and depend on its biosphere and natural resources for their survival. Humans increasingly impact Earth's hydrology, atmospheric processes and other life.
 
